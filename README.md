@@ -34,6 +34,8 @@ python3 detect.py
 ```
 
 
+### Changes
+In line 68 can change tolerance, at what minimum percentage show object detection.
 
-
+#### res = detect_objects(interpreter, img, ```0.2```)
 
