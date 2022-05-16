@@ -40,3 +40,5 @@ In line 68 can change tolerance, at what minimum percentage show object detectio
 
 #### res = detect_objects(interpreter, img, ```0.2```)
 
+### Always can test just showing this pictures
+![alt text](https://github.com/liudas1114/4wd_car/blob/main/Test%20photos/brick.png "Brick")
