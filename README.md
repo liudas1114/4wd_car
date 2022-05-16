@@ -3,7 +3,7 @@
 * Create new folder
 
 ```
-cd (folder name) 
+cd ~/Desktop/(folder name)/
 ```
 
 ```python
