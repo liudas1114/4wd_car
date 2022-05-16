@@ -32,6 +32,7 @@ sudo apt-get install python3-tflite-runtime
 ```
 python3 detect.py
 ```
+If you want quit press ```q```
 
 
 ### Changes
