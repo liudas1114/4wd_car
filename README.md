@@ -7,12 +7,12 @@ cd new_folder
 '''
 
 ```python
-git clone https://github.com/liudas1114/4wd_car
+git clone https://github.com/liudas1114/4wd_car.git
 ```
 
 ### Go to folder
 ```
-cd ...
+cd 4wd_car
 ```
 
 ### Install all libraries
