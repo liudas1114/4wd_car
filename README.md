@@ -3,7 +3,7 @@
 * Create new folder
 
 '''
-cd new_folder 
+cd (folder name) 
 '''
 
 ```python
