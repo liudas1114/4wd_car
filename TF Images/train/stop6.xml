@@ -1,0 +1,26 @@
+<annotation>
+	<folder>stop</folder>
+	<filename>stop6.jpg</filename>
+	<path>C:\Users\liuda\Desktop\TF Sign Detection\TFODCourse\Tensorflow\workspace\images\collectedimages\stop\stop	(6).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3280</width>
+		<height>2464</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1314</xmin>
+			<ymin>550</ymin>
+			<xmax>1500</xmax>
+			<ymax>744</ymax>
+		</bndbox>
+	</object>
+</annotation>
