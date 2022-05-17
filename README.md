@@ -1,5 +1,9 @@
 # 4wd_car Raspberry pi 4wd_car
 
+Watch how TF model working and basic car moves [Raspberry pi Car].
+[Raspberry pi Car]: https://youtu.be/1NgvWW8Pqis
+
+
 * Create new folder
 
 ```
